@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rec-0001",
+    "titulo": "Workflow n8n: Gmail a Google Sheets",
+    "tipo": "workflow",
+    "tags": ["n8n", "gmail", "sheets"],
+    "descripcion": "Automatiza el registro de correos en una hoja de cálculo.",
+    "nivel": "Básico",
+    "preview": "https://via.placeholder.com/300x200.png?text=Workflow+n8n",
+    "tamano": "320KB",
+    "version": "1.0.0",
+    "actualizado": "2025-09-21",
+    "slug": "workflow-gmail-sheets",
+    "archivo_id": "dl-0001"
+  }
+]
